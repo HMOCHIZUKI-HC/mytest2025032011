@@ -28,7 +28,7 @@
                 <field>Site</field>
             </layoutItems>
             <layoutItems>
-                <behavior>Edit</behavior>
+                <behavior>Readonly</behavior>
                 <field>SelectColumn__c</field>
             </layoutItems>
         </layoutColumns>
